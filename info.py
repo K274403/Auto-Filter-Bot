@@ -25,9 +25,9 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 USERNAME = environ.get('USERNAME', 'https://telegram.me/Looterekrish')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002186335716'))
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002087964739 -1002160766163').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Lootere:Lootere@lootere.xlo7d.mongodb.net/?retryWrites=true&w=majority&appName=Lootere")
-DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Lootere:Lootere@lootere.xlo7d.mongodb.net/?retryWrites=true&w=majority&appName=Lootere")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Lootere")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Rkmoviezip: Rkmoviezip@rkmoviezip.p44e8.mongodb.net/?retryWrites=true&w=majority&appName=Rkmoviezip")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Rkmoviezip: Rkmoviezip@rkmoviezip.p44e8.mongodb.net/?retryWrites=true&w=majority&appName=Rkmoviezip")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Rkmoviezip")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Lootere')
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002186335716'))
 QR_CODE = environ.get('QR_CODE', 'https://envs.sh/wam.jpg')
