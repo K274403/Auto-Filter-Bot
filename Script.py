@@ -52,7 +52,11 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<b><a href=https://telegram.me/RahulReviewsYT>{file_name} </a></b>
+    FILE_CAPTION = """<b><a href="https://t.me/Rkmovieszip">{file_name}</a> 
+
+<blockquote>✅ 𝘼𝙡𝙨𝙤 𝙟𝙤𝙞𝙣 #𝙍𝙠𝙢𝙤𝙫𝙞𝙚𝙯𝙞𝙥 – #𝙉𝙤𝟏 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙁𝙧𝙚𝙚 𝙈𝙤𝙫𝙞𝙚𝙨 𝘼𝙣𝙙 𝙒𝙚𝙗 𝙎𝙚𝙧𝙞𝙚𝙨 𝙀𝙣𝙩𝙚𝙧𝙩𝙖𝙞𝙣𝙢𝙚𝙣𝙩 𝘾𝙝𝙖𝙣𝙣𝙚𝙡. </blockquote>
+
+⏤‌‌𝗝⌡𝗼𝗶𝗻 𝗙𝗿𝗲𝗲 –「 @RKMOVIESZIP 」🔥
 
 <i>ᴘʟᴇᴀsᴇ ꜰᴏʀᴡᴀʀᴅ ᴛʜɪs ꜰɪʟᴇs ᴛᴏ ᴛʜᴇ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇ ᴀɴᴅ ᴄʟᴏsᴇ ᴛʜɪs ᴍᴇssᴀɢᴇ</i>"""
 
@@ -104,7 +108,7 @@ User - {}"""
 •─────•─────────•─────•
 
 
-✨ ᴜᴘɪ ɪᴅ - <code>RahulReviews@UPI</code>
+✨ ᴜᴘɪ ɪᴅ - <code>paytmqr5tuep5@ptys</code>
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ  /myplan
 
@@ -229,5 +233,5 @@ User - {}"""
 
 ❣️ 𝐷𝑜𝑛𝑎𝑡𝑖𝑜𝑛𝑠 𝑎𝑟𝑒 𝑟𝑒𝑎𝑙𝑙𝑦 𝑎𝑝𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑒𝑑 𝑖𝑡 ℎ𝑒𝑙𝑝𝑠 𝑖𝑛 𝑏𝑜𝑡 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡
 
-💖 𝐔𝐏𝐈 𝐈𝐃 : <code>RahulReviews@UPI</code>
+💖 𝐔𝐏𝐈 𝐈𝐃 : <code>paytmqr5tuep5@ptys</code>
 """
