@@ -37,7 +37,7 @@ async def upload_command(client, message):
     uploading_message = await message.reply_text("<code>ᴜᴘʟᴏᴀᴅɪɴɢ...</code>")
 
     try:
-        url = upload_image_requests(rahul)
+        url = upload_image_requests(Kʀɪsʜ)
         if not url:
             raise Exception("Failed to upload file.")
     except Exception as error:
@@ -45,14 +45,14 @@ async def upload_command(client, message):
         return
 
     try:
-        os.remove(rahul)
+        os.remove(Kʀɪsʜ)
     except Exception as error:
         print(f"Error removing file: {error}")
 
     await uploading_message.delete()
     codexbots=await message.reply_photo(
         photo=f'{url}',
-        caption=f"<b>ʏᴏᴜʀ ᴄʟᴏᴜᴅ ʟɪɴᴋ ᴄᴏᴍᴘʟᴇᴛᴇᴅ 👇</b>\n\n𝑳𝒊𝒏𝒌 :-\n\n<code>{url}</code>\n\n<b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @RahulReviewsYT</b>",
+        caption=f"<b>ʏᴏᴜʀ ᴄʟᴏᴜᴅ ʟɪɴᴋ ᴄᴏᴍᴘʟᴇᴛᴇᴅ 👇</b>\n\n𝑳𝒊𝒏𝒌 :-\n\n<code>{url}</code>\n\n<b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @Rkmovieszip</b>",
         #disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([[
             InlineKeyboardButton(text="• ᴏᴘᴇɴ ʟɪɴᴋ •", url=url),
